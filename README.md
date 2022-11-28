@@ -1,4 +1,4 @@
-# FLutter ToDo App
+# Flutter ToDo App
 
 A simple todo app to manage all your tasks
 
